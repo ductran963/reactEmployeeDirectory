@@ -12,9 +12,6 @@
 
 * Learning and adapting to the new structures and syntaxes of React. A better understanding of React allows me to be more organize with my work and it is much more convience since it allows users to code both HTML and JS within one file. ReactJS helps to prevent updating of DOM, which allows the apps will be faster and deliver better UX. 
 
-#### Link to deployed project 
- https://react-employee-directory-2020.herokuapp.com/
- 
 #### Link to github page: 
 https://github.com/ductran963/reactEmployeeDirectory
 
