@@ -1,5 +1,5 @@
+//Activity 23 Chapter 19
 import React, { useContext } from "react";
-import "../styles/DataBody.css";
 import DataAreaContext from "../utils/DataAreaContext";
 
 const DataBody = () => {
