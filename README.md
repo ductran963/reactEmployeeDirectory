@@ -16,7 +16,7 @@
 https://github.com/ductran963/reactEmployeeDirectory
 
 #### Link to deployed application: 
-https://react-employee-directory-2020.herokuapp.com/
+https://react-employees-directory-2020.herokuapp.com/
 
 
 
